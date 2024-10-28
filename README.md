@@ -46,3 +46,9 @@ The project provides visualizations to track:
 - Sleep patterns vs. activity levels
 - BMI and weight trends over time
 
+
+To view the full project, click [here](https://drive.google.com/drive/folders/1CGXhYBFuJxJszxUMIifU8R76tiDm7nTD?usp=sharing).
+
+
+
+
